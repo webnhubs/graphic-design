@@ -6,13 +6,13 @@ Welcome to WebnHubs' official GitHub graphic design repository. This repository 
 
 ## Projects
 
-- **Project 1**: Logo design for XYZ Company.
-- **Project 2**: Website mockup and visual branding for ABC Startup.
-- **Project 3**: Social media design templates for DEF Corporation.
+- **Project 1**: Logo design for Parsli Health Company.
+- **Project 2**: Website mockup and visual branding for Peacock media.
+- **Project 3**: Social media design templates for ESP Enterprises Inc.
 
 ## Design Guidelines
 
-Please refer to the `docs/design-guidelines.md` for our design standards, color schemes, typography, and more.
+Please refer to the `docs/design-guidelines.md` for our design standards, color schemes, typography, and more. Visit www.webnhubs.com
 
 ## Brand Assets
 
